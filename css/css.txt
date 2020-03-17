@@ -1,0 +1,17 @@
+body {
+  background: gray;
+  color: #323232;
+  font-weight: 300;
+  height: 100vh;
+  margin: 0;
+  font-family: Helvetica neue, roboto;
+  overflow: hidden;
+}
+
+h6 {
+  font-style: 1px;
+  font-size: 1em;
+  margin: 1px;
+  font-family: cursive;
+  color: rgb(5, 5, 5);
+}
